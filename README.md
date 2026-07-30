@@ -8,3 +8,7 @@ Pueden hacer lo que quieran...
 
 ###Actualizado desde Github
 Este es un mensaje editado completamente desde github
+
+
+###Actualizacion desde Local
+Este es un mensaje editando completamente desde mi lapto(Localmente)
